@@ -63,7 +63,7 @@ public class Main {
 
     public static void main(String[] args) {
         try {
-            String url = "https://www.cbar.az/currencies/02.02.2024.xml";
+            String url = "https://cbar.az/currencies/15.03.2024.xml";
 
             HttpURLConnection connection = connectToServer(url);
 
